@@ -12,7 +12,8 @@ label {
 @import url("https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&display=swap");
 
 body {
-  background-image: url("https://www.shutterstock.com/shutterstock/photos/2513324701/display_1500/stock-vector-pixel-art-bit-retro-game-level-background-dungeon-wall-of-stones-masonry-adventure-2513324701.jpg"); /* Stone texture */
+  background-image: url("https://pics.craiyon.com/2023-06-24/4f9ad32060a14942ac3cc523c917b6ec.webp");
+  background-size: 100% 100%; /* Stone texture */
   background-color: #333;
   font-family: "UnifrakturCook", cursive;
   color: #f4f4f4;
