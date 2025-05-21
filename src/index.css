@@ -118,5 +118,5 @@ form button:hover {
 }
 
 .vibrate-on-load {
-  animation: vibrate 0.1s linear 0s 10;
+  animation: vibrate 0.4s linear 0s 4;
 }
